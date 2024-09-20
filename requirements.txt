@@ -1,4 +1,4 @@
 #pip install -r requirements.txt for innstalling alll requirements in 1 step if i want to dulk bulk installation
-Flask == 1.1.2  #'==' ke baad version dena optional h
-gunicorn == 20.0.4 # it is a cloud environments
-requests == 22.4.0
+Flask   #'==' ke baad version dena optional h
+gunicorn  # it is a cloud environments
+requests 
